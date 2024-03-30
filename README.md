@@ -6,7 +6,7 @@
   - [Creating a Live SOC / HoneyNet in Azure](https://github.com/Pranavnathan23/Azure-SOC)
 - <b> Vulnerability Management Project</b>
   - [OpenVAS](https://github.com/Pranavnathan23/OpenVAS-Vulnerability-Management) </b>
-- <b>PowerShell</b>
+- <b>Packet tracer</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
