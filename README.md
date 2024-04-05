@@ -8,8 +8,9 @@
   - [OpenVAS](https://github.com/Pranavnathan23/OpenVAS-Vulnerability-Management) </b>
 - <b>Packet tracer</b>
   - [Secure Network Design with Cisco Packet Tracer](https://github.com/Pranavnathan23/Secure-Network-Design-Packet-Tracer)
-  - [Configuring and Verifying OSPF operation In  Cisco Packet Tracer](https://github.com/Pranavnathan23/Configure-and-Verify-OSPF-operation)
-    
+  - [Configuring and Verifying OSPF operation In  Cisco Packet Tracer](https://github.com/Pranavnathan23/Configure-and-Verify-OSPF-operation)    
+- <b>Wireshark</b>
+  - [Network Traffic Analysis using Wireshark](https://github.com/Pranavnathan23/Secure-Network-Design-Packet-Tracer)
 <h2> 🤳 Connect with me:</h2>
 
 
